@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Arqamalam
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to find someone beginner like me to help eachother
+- 👀 I’m interested in web and app development
 - 📫 You can reach me at my instagram ( arqamalam_ ) or email (arqamalam948@gmail.com)
-- ⚡ QUOTE: "If you suffer before than it's neccessory, then you will suffer more than its neccessory"
+
 
 <!---
 Arqamalam/Arqamalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
